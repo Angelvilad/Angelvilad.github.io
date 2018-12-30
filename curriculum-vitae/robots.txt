@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+Sitemap: https://angelvilad.github.io/curriculum-vitae/sitemap.xml

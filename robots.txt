@@ -1,3 +1,0 @@
-User-agent: *
-Disallow: /
-Sitemap: https://angelvilad.github.io/sitemap.xml
