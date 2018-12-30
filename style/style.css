@@ -147,18 +147,6 @@ table.job-experience td:nth-child(2){
     text-align: end;
 }
 
-#about-me figure.video {
-    margin: 2rem 0 2rem 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-#about-me figure.video iframe{
-    width: 350px;
-    height: 250px;
-}
-
 #about-me figure.image {
     width: 50%;
     margin-left: auto;
