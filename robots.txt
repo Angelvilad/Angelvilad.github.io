@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /
-Sitemap: https:/angelvilad.github.io/sitemap.xml
+Sitemap: https://angelvilad.github.io/sitemap.xml
